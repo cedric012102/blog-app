@@ -1,0 +1,39 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "API POST",
+      "content": "content for my post"
+    },
+    {
+      "title": "Ewfcwefc",
+      "content": "Wefcwe",
+      "id": 2
+    },
+    {
+      "title": "Wgwegws",
+      "content": "Srgsg",
+      "id": 3
+    },
+    {
+      "title": "Add 4",
+      "content": "Asfse",
+      "id": 4
+    },
+    {
+      "title": "Erger",
+      "content": "Regeg",
+      "id": 5
+    },
+    {
+      "title": "Rergre",
+      "content": "Ergvrv",
+      "id": 6
+    },
+    {
+      "title": "Dfgvsd",
+      "content": "Agsdg",
+      "id": 7
+    }
+  ]
+}
